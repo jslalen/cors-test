@@ -1,0 +1,56 @@
+body
+{
+    font-size: 16px;
+    color: black;
+    background-color: paleturquoise;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+/***HEADER***/
+#header-nav
+{
+    background-color:indianred;
+    border-radius: 0;
+    border: solid;
+    border-color:rosybrown;
+    color:antiquewhite;
+    height: auto;
+}
+.navbar-brand h1
+{
+    margin: 0;
+    font-family: 'Lucida Handwriting';  
+    margin-top:-17px;
+    color:floralwhite;
+    text-shadow: 1px 1px 1px #222;
+    font-size: 2.9em;
+}
+.navbar-brand a:hover, .navbar-brand a:focus
+{
+    text-decoration: none;
+}
+#nav-list a
+{
+    color: black;
+    text-align: center;
+}
+#nav-list a:hover
+{
+    background: #fff;
+}
+/***main-content***/
+#menu-title
+{
+    color:maroon;
+    font-family: 'Microsoft YaHei UI';
+    font-size: 2.3em;
+}
+#dish-name
+{
+    color: blue;
+    font-family: 'Curlz MT';
+    font-weight: bold;
+}
+#content-block
+{
+    background-color: darksalmon;
+}
