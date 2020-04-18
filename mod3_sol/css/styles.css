@@ -50,23 +50,26 @@ body
     font-family: 'Curlz MT';
     font-weight: bold;
 }
-#chick-para
-{
+#chick-para {
     background-color: lemonchiffon;
     height: 900px;
     position: relative;
+    margin: 10px;
+    width: 100%;
 }
-#beef-para
-{
+#beef-para {
     background-color: papayawhip;
     height: 900px;
     position: relative;
+    margin: 10px;
+    width: 100%;
 }
-#sushi-para 
-{
+#sushi-para {
     background-color: lightgray;
     height: 900px;
     position: relative;
+    margin: 10px;
+    width:100%;
 }
 #chick-para a
 {
